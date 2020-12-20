@@ -6,7 +6,7 @@
     <title>เว็บแนะนำตัวL</title>
   </head>
   <body>
-  <body style="background-color:powderblue;">
+  <body style="background-color:powderblue;"></body>
         <h1>ประวัติส่วนตัว</h1>
         <h2>Web Technology for Data Science</h2>
 <p>ชื่อหลักสูตรภาษาไทย : หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการข้อมูล</p>
