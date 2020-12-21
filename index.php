@@ -18,4 +18,4 @@ body {
 
 <body>
         <h1>WEB TECHNOLOGY</h1>
-        <a href="https://jintana.herokuapp.com/" target="_blank">620710784 &#128512; </a>
+        <a href="jintana.html" target="_blank">620710784 &#128512; </a>
