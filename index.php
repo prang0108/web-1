@@ -18,4 +18,4 @@ body {
 
 <body>
         <h1>WEB TECHNOLOGY</h1>
-        <a href="https://github.com/prang0108/web-1/blob/main/jintana.html" target="_blank">620710784 &#128512; </a>
+        <a href="https://jintana.herokuapp.com/" target="_blank">620710784 &#128512; </a>
