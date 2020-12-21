@@ -8,14 +8,34 @@
 
 <style>
 body {
-  background-image: url('https://3.bp.blogspot.com/-QoIL7-im2t0/XENN9L0oFPI/AAAAAAAA0vw/K8BO0psIpcQFgvx_y-HiS50R-YTz9xwiQCLcBGAs/s1600/pastel-pic02.jpg');
+  background-image: url('https://cdn.shopify.com/s/files/1/0054/5072/7489/products/Grippi-Pink_Landscape-AP_206c18b6-a73a-42f3-a6c2-cd713f19394f.jpg?v=1585282962');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   text-align: center;
-}
+  width: 316px;
+  height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -100px;
+  }
 </style>
 
 <body>
         <h1>WEB TECHNOLOGY</h1>
-        <a href="jintana.html" target="_blank">620710784 &#128512; </a>
+        <HR Width = "50%" Align ="Center" Size="4" Color="Red">
+        <br>
+        <a href="thanunya.html" target="_blank">620710160 </a> 
+        <br>
+        <br>
+        <a href="ornpreeya.html" target="_blank">620710409 </a> 
+        <br>
+        <br>
+        <a href="aom.html" target="_blank">620710741 </a> 
+        <br>
+        <br>
+        <a href="jintana.html" target="_blank">620710784 </a>
+</body>
+</html>
